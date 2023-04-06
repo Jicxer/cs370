@@ -1,0 +1,4 @@
+Flag: cs370{9GQTgrSYSsRyeFelrJ22g1zLVp1nGzRTn4Kzs9M8iT8=}
+Difficulty: 1
+
+The flag was provided upon logging into the CTF servers.

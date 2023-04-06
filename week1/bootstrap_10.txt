@@ -1,0 +1,6 @@
+Flag: cs370{I_am_awesome}
+Difficulty: 0
+
+For this challenge, the flag was provided along with the challenge. It was an
+easy 10 points. No write up needed.
+
